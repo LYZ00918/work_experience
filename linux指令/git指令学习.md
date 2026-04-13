@@ -15,3 +15,5 @@
 # 下载代码
 ## 1.第一次下载代码：git clone https://****
 ## 2.git pull origin main
+## 3.git reset --hard origin/main 
+    使用github上的内容，进行重置
