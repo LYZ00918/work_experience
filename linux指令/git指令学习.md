@@ -10,3 +10,8 @@
 ## 4.git remote add origin https://github.com/LYZ00918/work_experience.git
 
 ## 5.git push -u origin master:main
+
+
+# 下载代码
+## 1.第一次下载代码：git clone https://****
+## 2.git pull origin main
